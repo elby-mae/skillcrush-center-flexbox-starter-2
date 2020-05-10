@@ -15,6 +15,30 @@ body {
 	margin: 0px;
 }
 
+.centered { 
+  padding: 0 3.125em;
+  font-family:'Montserrat', sans-serif; 
+  background: #f16059; 
+}
+ 
+h1 {
+  font-size: 2em; 
+  color: #fff; 
+  text-align: center;
+}
+
+.centered { 
+  padding: 0 3.125em;
+  font-family:'Montserrat', sans-serif; 
+  background: #f16059; 
+}
+ 
+h1 {
+  font-size: 2em; 
+  color: #fff; 
+  text-align: center;
+}
+
 @media screen and (min-width: 786px) {
   h1 {
     font-size: 3em;
